@@ -3,7 +3,8 @@ This is a application which receive and send data using uart
 
 install pyserial library before using the program
 
-def port_available() is to find available port number
+def port_available() is to find available port number 
+!!!!!!!!!! 'port_available()' this part is from the internet, need to make some change to avoid plagiarism>!!!!!!!!!!!
 
 def send(data_s,port_num,baudrate) is to send data via uart
 data_s: can be any data type (tested: int float str)
